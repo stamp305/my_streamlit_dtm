@@ -1,4 +1,4 @@
 streamlit
-scikit-;earn
-numpy
 pandas
+scikit-learn
+matplotlib
